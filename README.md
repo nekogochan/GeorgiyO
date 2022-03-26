@@ -15,7 +15,7 @@ You can find console version written in java [here](https://github.com/GeorgiyO/
 example of usage web-version: https://www.youtube.com/watch?v=CuuMNwQ9s6A
 
 #### Functional library
-[here](https://github.com/GeorgiyO/functional), for own use. Vavr doesn't give me the functionality I need (like currying)
+[here](https://github.com/GeorgiyO/functional). Vavr doesn't give me the functionality I need (like currying)
 
 _have now_: Functional interfaces with currying
 

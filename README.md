@@ -19,7 +19,7 @@ example of usage web-version: https://www.youtube.com/watch?v=CuuMNwQ9s6A
 
 _have now_: Functional interfaces with currying
 
-_planning next_: Add interfaces for primitive types (int, long, double). Now thinks about naming of these functions (some like IIO_O that mean (int, int, <T>) -> <R>)
+_planning next_: Add interfaces for primitive types (int, long, double). Now thinks about naming of these functions (some like IIO_O that mean (int, int, Object) -> Object)
 
   
 ### Prjects in plans:

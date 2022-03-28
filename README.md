@@ -17,7 +17,7 @@ example of usage web-version: https://www.youtube.com/watch?v=CuuMNwQ9s6A
 #### Functional library
 [here](https://github.com/GeorgiyO/functional). Vavr doesn't give me the functionality I need (like currying)
 
-_have now_: Functional interfaces with currying
+_have now_: Functional interfaces with currying, Reference-classes
 
 _planning next_: Add interfaces for primitive types (int, long, double). Now thinks about naming of these functions (some like IIO_O that mean (int, int, Object) -> Object)
 

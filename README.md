@@ -7,3 +7,5 @@
 * _rust_ - lazy try to explore
 
 Currently working on String-art-generator, you can find it in pinns
+
+Abaddoned old or dumb projects: https://github.com/nekogochanPomoika
